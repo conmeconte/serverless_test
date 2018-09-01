@@ -4,4 +4,9 @@ jspm_packages
 
 # Serverless directories
 .serverless
-.secrets.json
+
+# secrets
+secrets.json
+
+# config
+.vscode
